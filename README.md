@@ -15,7 +15,7 @@
 - 🐍 **Python-Enthusiast** - Begeistert von Data Science und Automation
 - 🌱 **Lerne ständig dazu** - Aktuell vertiefe ich meine Kenntnisse in KI/ML
 - 🔭 **Arbeite an:** Spannenden Projekten im Web-Development Bereich
-- 📍 **Location:** Deutschland
+- 📍 **Location:** Italien
 - 💬 **Frag mich über:** Web Development, Python, Open Source
 
 ## 🛠️ Tech Stack & Skills
